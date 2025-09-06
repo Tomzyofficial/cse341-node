@@ -5,10 +5,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon app.js",
+    "start": "node app.js",
     "swagger": "node ./swagger.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Chukwuebuka Ibeh",
   "license": "ISC",
   "description": "",
   "dependencies": {
