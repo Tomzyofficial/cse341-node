@@ -2,8 +2,8 @@ const swaggerAutogen = require("swagger-autogen")();
 
 const doc = {
   info: {
-    title: "Sample API",
-    description: "This is a sample API",
+    title: "Cse341 API",
+    description: "This is Cse341 API",
   },
   host: "https://cse341-node-ma9j.onrender.com/contacts",
 };
