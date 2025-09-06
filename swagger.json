@@ -1,15 +1,13 @@
 {
   "swagger": "2.0",
   "info": {
-    "title": "Sample API",
-    "description": "This is a sample API",
+    "title": "Cse341 API",
+    "description": "This is a Cse341 API",
     "version": "1.0.0"
   },
   "host": "https://cse341-node-ma9j.onrender.com/contacts",
   "basePath": "/",
-  "schemes": [
-    "http"
-  ],
+  "schemes": ["http", "https"],
   "paths": {
     "/": {
       "get": {
