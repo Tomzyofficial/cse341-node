@@ -5,11 +5,9 @@
     "description": "This is Cse341 API",
     "version": "1.0.0"
   },
-  "host": "https://cse341-node-ma9j.onrender.com/contacts",
-  "basePath": "/",
-  "schemes": [
-    "http"
-  ],
+  "host": "cse341-node-ma9j.onrender.com",
+  "basePath": "/contacts",
+  "schemes": ["https"],
   "paths": {
     "/": {
       "get": {
